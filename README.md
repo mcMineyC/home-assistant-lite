@@ -3,4 +3,4 @@ This is a light version of the open source project Home Assistant.  This project
 Using none of the original Home Assistant code, nested Docker containers and unneccasary virtualization is eliminated.
 
 # Architecture
-See ARCHETECTURE.md for more details (eventually; I'm lazy)
+See [ARCHETECTURE.md](ARCHETECTURE.md) for more details (eventually; I'm lazy)
