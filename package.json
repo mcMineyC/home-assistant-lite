@@ -1,0 +1,26 @@
+{
+  "name": "home-assistant-lite",
+  "version": "1.0.0",
+  "description": "A lite version of home assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcMineyC/home-assistant-lite.git"
+  },
+  "author": "mcMineyC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcMineyC/home-assistant-lite/issues"
+  },
+  "homepage": "https://github.com/mcMineyC/home-assistant-lite#readme",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "mqtt": "^5.10.3",
+    "os": "^0.1.2"
+  }
+}

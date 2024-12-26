@@ -1,0 +1,17 @@
+{
+  "port": "3000",
+  "devices": [
+    {
+      "type": "kasa",
+      "device-type": "bulb",
+      "ip": "192.168.1.1",
+      "id": "bed-bulb"
+    },
+    {
+      "type": "kasa",
+      "device-type": "bulb",
+      "ip": "192.168.1.2",
+      "id": "desk-bulb"
+    }
+  ]
+}
